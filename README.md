@@ -4,6 +4,9 @@ DIY theater styled desk lights 24mm diameter
 # Description
 These are small desk lights that are modeled after theater lights. They use a lens to distribute the light evenly.
 
+![IMG_0812](https://github.com/user-attachments/assets/fd33d073-a9db-442b-8fb2-4d9a7531a253)
+
+
 # Materials
 
 - 20mm lens [Aliexpress](https://nl.aliexpress.com/item/1005003694031206.html?spm=a2g0o.productlist.main.11.64d9ZSt9ZSt9rt&algo_pvid=ad9da66f-e318-4b51-aec4-01da39b119b8&algo_exp_id=ad9da66f-e318-4b51-aec4-01da39b119b8-5&pdp_ext_f=%7B%22order%22%3A%2299%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%212.60%210.93%21%21%212.76%210.99%21%40211b80c217416992186796113e9e31%2112000026835870718%21sea%21NL%210%21ABX&curPageLogUid=lxCB2OE6OqJA&utparam-url=scene%3Asearch%7Cquery_from%3A)
