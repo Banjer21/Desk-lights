@@ -16,4 +16,8 @@ These are small desk lights that are modeled after theater lights. They use a le
 - m2 6mm screws
 - Wires
 
+
+# Tutorial
+!(https://youtu.be/0uoYNbGtdoQ)
+
 Disclaimer: I have only bought the 1 watt LED from this supplier, the other parts I had laying around. So just use these links as references to what type of products I have used.
